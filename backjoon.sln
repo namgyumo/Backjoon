@@ -15,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "backjoon 1012", "backjoon 1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Debug", "Debug\Debug.vcxproj", "{8933F757-10D6-4997-808F-AFD58BC50D0B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "backjoon 2178", "backjoon 2178\backjoon 2178.vcxproj", "{2400028E-2C75-40D5-A1E6-8A05DA39783E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "backjoon 4963", "backjoon 2178\backjoon 2178.vcxproj", "{2400028E-2C75-40D5-A1E6-8A05DA39783E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "backjoon 2563", "backjoon 2563\backjoon 2563.vcxproj", "{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{2400028E-2C75-40D5-A1E6-8A05DA39783E}.Release|x64.Build.0 = Release|x64
 		{2400028E-2C75-40D5-A1E6-8A05DA39783E}.Release|x86.ActiveCfg = Release|Win32
 		{2400028E-2C75-40D5-A1E6-8A05DA39783E}.Release|x86.Build.0 = Release|Win32
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Debug|x64.ActiveCfg = Debug|x64
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Debug|x64.Build.0 = Debug|x64
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Debug|x86.Build.0 = Debug|Win32
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Release|x64.ActiveCfg = Release|x64
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Release|x64.Build.0 = Release|x64
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Release|x86.ActiveCfg = Release|Win32
+		{1A11B70E-8C30-4997-B1F1-C1770F9CD2BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
